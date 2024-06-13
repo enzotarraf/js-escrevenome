@@ -1,4 +1,4 @@
 # tarraf
-Bem vindo ao meu perfil 
-Me chamo Enzo Tarraf
-Estudo no misiara e vim apresentar meu trabalho
+Bem vindo ao meu perfi!
+
+Me chamo Enzo Tarraf, estudo no Miziara e vou apresentar meu trabalho.
