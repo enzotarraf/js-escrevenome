@@ -1,4 +1,1 @@
-# tarraf
-Bem vindo ao meu perfi!
-
-Me chamo Enzo Tarraf, estudo no Miziara e vou apresentar meu trabalho.
+ Tarraf by Enzo Tarraf is marked with CC0 1.0 Universal 
